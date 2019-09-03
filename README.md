@@ -4,7 +4,7 @@ Présentation de différents types de Coding Dojo avec reveal.js
 
 ## Comment lire la présentation
 
-Récupérer le dépôt via github (https://github.com/Jorg722/CodingDojo) et ouvrer la page index.html dans votre navigateur préféré =)
+Récupérer le dépôt via github (https://github.com/Jorg722/CodingDojo) et ouvrez la page index.html dans votre navigateur préféré =)
 
 ## License
 
